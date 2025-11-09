@@ -1,8 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!"); // Prints "Hello, World!" to the console
-    }
-}
+        System.out.println("Hello, World!"); // Prints "Hello, World!" to the consoleG
 
 with the new code
 public class HelloWorld {
@@ -11,4 +9,4 @@ public class HelloWorld {
     }
 }
 
-
+new code i am going to write 
